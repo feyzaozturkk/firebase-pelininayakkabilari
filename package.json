@@ -12,14 +12,31 @@
     "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/firebase": "^7.3.0",
     "@nuxtjs/pwa": "^3.0.2",
+    "@vue/test-utils": "^1.1.2",
     "core-js": "^3.6.5",
     "firebase": "^8.2.1",
+    "jest": "^26.6.3",
     "js-cookie": "^2.2.1",
     "nuxt": "^2.14.6",
     "nuxt-sweetalert2": "^1.0.0",
+    "vue-jest": "^3.0.7",
+    "vue-template-compiler": "^2.6.12",
     "vuetify": "^2.3.19"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2"
-  }
+  },
+  "description": "## Build Setup",
+  "main": "nuxt.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feyzaozturkk/firebase-pelininayakkabilari.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feyzaozturkk/firebase-pelininayakkabilari/issues"
+  },
+  "homepage": "https://github.com/feyzaozturkk/firebase-pelininayakkabilari#readme"
 }
